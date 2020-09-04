@@ -17,5 +17,5 @@ I used Unity and C# scripts to create a mouse clicking game that challenges the 
 - Once the timer runs out, players can see their score and the highscore during this gaming session. They are given the option to replay the game or quit to the Main Menu.
 
 ## Contributors
-- Co-developed by Giang Nguyen (www.github.com/giangvubinhn)
+- Co-developed by Phu Nguyen (https://github.com/phooozi)
 
